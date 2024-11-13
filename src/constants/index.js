@@ -535,6 +535,27 @@ export const projects = [
   },
   {
     id: "project-4",
+    title: "Portfolio",
+    github:"https://github.com/ElminAkberov/portfolio",
+    image: "/Elmin Akberov.png",
+    content:
+      "My Portfolio Page; Source Code in GitHub link",
+    stack: [
+      {
+        id: "icon-1",
+        icon: SiReact,
+        name: "React"
+      },     
+      {
+        id: "icon-1",
+        icon: SiTailwindcss,
+        name: "Tailwind CSS"
+      },     
+      
+    ],
+  },
+  {
+    id: "project-4",
     title: "CryptoLand",
     link: "https://trading-flame.vercel.app/",
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmVYKvEh2y7RT7oJdj0PNJ1qJXRDouYifaAQ&s",

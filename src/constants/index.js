@@ -136,7 +136,7 @@ export const educationList = [
     id: "education-1",
     icon: "/bsu.jpeg",
     title: "Baku State University,Baku AZ",
-    degree: "Bachelor of Computer Science",
+    degree: "Bachelor of Chemistry",
     duration: "Sep 2021 - July 2025",
   },
 ];
